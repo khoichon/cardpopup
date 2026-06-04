@@ -1,6 +1,6 @@
 (() => {
     const CDN_ROOT =
-        "https://cdn.jsdelivr.net/gh/khoichon/cardpopip";
+        "https://cdn.jsdelivr.net/gh/khoichon/cardpopup";
 
     const DEFAULTS = {
         angle: -8,
